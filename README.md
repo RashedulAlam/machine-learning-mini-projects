@@ -15,7 +15,7 @@ This project explores direct marketing campaigns conducted by a banking institut
 This project focuses on sentiment analysis using the Sentiment140 dataset, which comprises 1.6 million annotated tweets. The goal is to build and compare two machine learning models to classify the sentiment of tweets accurately.
 
 ### Files
-- `Mini_Project_2`: Jupyter notebook containing the process of building and comparing two machine learning models for sentiment analysis.
+- `Mini_Project_2.ipynb`: Jupyter notebook containing the process of building and comparing two machine learning models for sentiment analysis.
 - Dataset containing annotated tweets for sentiment analysis.
 
 ## 3. Human Activity Clustering Based on Sensor Data
